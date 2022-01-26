@@ -4,7 +4,7 @@ const ourform = document.querySelector("#ourform")
 const ourfield = document.querySelector("#ourfield")
 
 clickme.addEventListener("click", function () {
-  data.textContent = "Laptop Tabblet Desktop"
+  data.textContent = "SALAMOON ALAIKOOM"
 })
 
 ourform.addEventListener("submit", function (e) {
